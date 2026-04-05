@@ -1,6 +1,6 @@
 # Claude: Expert Craft Plugin
 
-Create custom expert skills through interactive dialogue. Hire domain experts, summon them for reviews, and manage your expert team.
+A [Claude Code](https://docs.anthropic.com/en/docs/claude-code) plugin that lets you create custom domain expert skills through interactive dialogue. Hire experts, summon them for code reviews and questions, and manage your expert team — all from the Claude Code CLI.
 
 ## Commands
 
