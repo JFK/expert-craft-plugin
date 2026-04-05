@@ -10,6 +10,13 @@ Create custom expert skills through interactive dialogue. Hire domain experts, s
 | `/expert-list` | List all your hired experts |
 | `/expert-retire` | Remove an expert you no longer need |
 
+## Installation
+
+```bash
+/plugin marketplace add JFK/expert-craft-plugin
+/plugin install expert-craft
+```
+
 ## Usage
 
 ### Hire an expert
