@@ -1,4 +1,4 @@
-# Expert Craft Plugin
+# Expert　Claude Code Craft Plugin
 
 Create custom expert skills through interactive dialogue. Hire domain experts, summon them for reviews, and manage your expert team.
 
