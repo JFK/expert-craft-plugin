@@ -1,0 +1,19 @@
+{
+  "name": "expert-craft",
+  "version": "1.0.0",
+  "description": "Create, manage, and summon custom expert skills through interactive dialogue",
+  "author": {
+    "name": "Fumikazu Kiyota",
+    "url": "https://github.com/JFK"
+  },
+  "repository": "https://github.com/JFK/expert-craft-plugin",
+  "license": "MIT",
+  "keywords": [
+    "expert",
+    "skill-generation",
+    "code-review",
+    "productivity",
+    "custom-commands"
+  ],
+  "commands": ["./commands/"]
+}

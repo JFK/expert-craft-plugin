@@ -1,0 +1,17 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "expert-craft",
+  "description": "Create, manage, and summon custom expert skills — hire domain experts through interactive dialogue",
+  "owner": {
+    "name": "Fumikazu Kiyota",
+    "email": "fumikazu.kiyota@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "expert-craft",
+      "source": "./",
+      "version": "1.0.0",
+      "category": "productivity"
+    }
+  ]
+}
