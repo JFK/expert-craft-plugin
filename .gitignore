@@ -1,2 +1,27 @@
+# Claude Code local config
 .mcp.json
 .claude/
+
+# Secrets — never commit
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+id_*
+!id_*.md
+secrets
+secrets.*
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
+
+# Language caches (in case contributors add tooling later)
+node_modules/
+__pycache__/
+*.pyc
+.venv/
