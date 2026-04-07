@@ -61,6 +61,11 @@ Each expert supports **question mode** (ask a specific question) and **review mo
 
 Experts created with this plugin can cross-reference findings from [Claude C-Suite](https://github.com/JFK/claude-c-suite-plugin) and [Claude PhD Panel](https://github.com/JFK/claude-phd-panel-plugin) when run in the same session.
 
+## Related plugins
+
+- **[claude-c-suite-plugin](https://github.com/JFK/claude-c-suite-plugin)** — Executive perspectives (CEO/CTO/CSO/CFO/CMO/CLO/etc.) for code review. Use it for built-in business roles, then `expert-craft` for project-specific custom experts.
+- **[claude-phd-panel-plugin](https://github.com/JFK/claude-phd-panel-plugin)** — Academic expert reviews (CS, DB, Stats, Data Science, Distributed Systems, PL theory). Use it for theory-grounded analysis alongside your custom experts.
+
 ## License
 
 MIT
